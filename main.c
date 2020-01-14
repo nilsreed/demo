@@ -2,7 +2,7 @@
 
 int main(){
 	printf("Hello World!\n");
-	printf("...and Mars!\n");
+	printf("...and Jupiter!\n");
 
 	if (1 < 0){
 
